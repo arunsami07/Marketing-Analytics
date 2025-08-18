@@ -1,0 +1,501 @@
+campaign_id,brand,review_text,sentiment
+CAMPAIGN_1,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_2,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_3,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_4,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_5,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_6,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_7,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_8,Puma,Decent product for the price.,Neutral
+CAMPAIGN_9,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_10,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_11,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_12,Adidas,Love the new collection!,Positive
+CAMPAIGN_13,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_14,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_15,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_16,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_17,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_18,Puma,Decent product for the price.,Neutral
+CAMPAIGN_19,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_20,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_21,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_22,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_23,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_24,Puma,Decent product for the price.,Neutral
+CAMPAIGN_25,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_26,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_27,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_28,Adidas,Love the new collection!,Positive
+CAMPAIGN_29,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_30,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_31,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_32,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_33,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_34,Puma,Decent product for the price.,Neutral
+CAMPAIGN_35,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_36,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_37,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_38,Adidas,Love the new collection!,Positive
+CAMPAIGN_39,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_40,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_41,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_42,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_43,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_44,Puma,Decent product for the price.,Neutral
+CAMPAIGN_45,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_46,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_47,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_48,Adidas,Love the new collection!,Positive
+CAMPAIGN_49,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_50,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_51,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_52,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_53,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_54,Puma,Decent product for the price.,Neutral
+CAMPAIGN_55,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_56,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_57,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_58,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_59,Puma,Decent product for the price.,Neutral
+CAMPAIGN_60,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_61,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_62,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_63,Adidas,Love the new collection!,Positive
+CAMPAIGN_64,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_65,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_66,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_67,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_68,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_69,Puma,Decent product for the price.,Neutral
+CAMPAIGN_70,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_71,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_72,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_73,Adidas,Love the new collection!,Positive
+CAMPAIGN_74,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_75,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_76,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_77,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_78,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_79,Puma,Decent product for the price.,Neutral
+CAMPAIGN_80,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_81,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_82,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_83,Adidas,Love the new collection!,Positive
+CAMPAIGN_84,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_85,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_86,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_87,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_88,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_89,Puma,Decent product for the price.,Neutral
+CAMPAIGN_90,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_91,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_92,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_93,Adidas,Love the new collection!,Positive
+CAMPAIGN_94,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_95,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_96,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_97,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_98,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_99,Puma,Decent product for the price.,Neutral
+CAMPAIGN_100,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_101,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_102,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_103,Adidas,Love the new collection!,Positive
+CAMPAIGN_104,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_105,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_106,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_107,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_108,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_109,Puma,Decent product for the price.,Neutral
+CAMPAIGN_110,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_111,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_112,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_113,Adidas,Love the new collection!,Positive
+CAMPAIGN_114,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_115,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_116,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_117,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_118,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_119,Puma,Decent product for the price.,Neutral
+CAMPAIGN_120,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_121,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_122,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_123,Adidas,Love the new collection!,Positive
+CAMPAIGN_124,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_125,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_126,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_127,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_128,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_129,Puma,Decent product for the price.,Neutral
+CAMPAIGN_130,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_131,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_132,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_133,Adidas,Love the new collection!,Positive
+CAMPAIGN_134,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_135,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_136,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_137,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_138,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_139,Puma,Decent product for the price.,Neutral
+CAMPAIGN_140,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_141,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_142,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_143,Adidas,Love the new collection!,Positive
+CAMPAIGN_144,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_145,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_146,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_147,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_148,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_149,Puma,Decent product for the price.,Neutral
+CAMPAIGN_150,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_151,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_152,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_153,Adidas,Love the new collection!,Positive
+CAMPAIGN_154,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_155,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_156,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_157,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_158,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_159,Puma,Decent product for the price.,Neutral
+CAMPAIGN_160,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_161,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_162,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_163,Adidas,Love the new collection!,Positive
+CAMPAIGN_164,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_165,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_166,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_167,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_168,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_169,Puma,Decent product for the price.,Neutral
+CAMPAIGN_170,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_171,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_172,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_173,Adidas,Love the new collection!,Positive
+CAMPAIGN_174,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_175,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_176,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_177,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_178,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_179,Puma,Decent product for the price.,Neutral
+CAMPAIGN_180,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_181,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_182,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_183,Adidas,Love the new collection!,Positive
+CAMPAIGN_184,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_185,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_186,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_187,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_188,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_189,Puma,Decent product for the price.,Neutral
+CAMPAIGN_190,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_191,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_192,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_193,Adidas,Love the new collection!,Positive
+CAMPAIGN_194,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_195,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_196,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_197,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_198,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_199,Puma,Decent product for the price.,Neutral
+CAMPAIGN_200,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_201,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_202,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_203,Adidas,Love the new collection!,Positive
+CAMPAIGN_204,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_205,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_206,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_207,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_208,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_209,Puma,Decent product for the price.,Neutral
+CAMPAIGN_210,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_211,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_212,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_213,Adidas,Love the new collection!,Positive
+CAMPAIGN_214,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_215,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_216,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_217,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_218,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_219,Puma,Decent product for the price.,Neutral
+CAMPAIGN_220,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_221,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_222,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_223,Adidas,Love the new collection!,Positive
+CAMPAIGN_224,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_225,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_226,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_227,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_228,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_229,Puma,Decent product for the price.,Neutral
+CAMPAIGN_230,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_231,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_232,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_233,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_234,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_235,Adidas,Love the new collection!,Positive
+CAMPAIGN_236,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_237,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_238,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_239,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_240,Puma,Decent product for the price.,Neutral
+CAMPAIGN_241,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_242,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_243,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_244,Adidas,Love the new collection!,Positive
+CAMPAIGN_245,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_246,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_247,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_248,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_249,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_250,Puma,Decent product for the price.,Neutral
+CAMPAIGN_251,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_252,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_253,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_254,Adidas,Love the new collection!,Positive
+CAMPAIGN_255,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_256,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_257,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_258,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_259,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_260,Puma,Decent product for the price.,Neutral
+CAMPAIGN_261,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_262,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_263,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_264,Adidas,Love the new collection!,Positive
+CAMPAIGN_265,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_266,Adidas,Love the new collection!,Positive
+CAMPAIGN_267,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_268,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_269,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_270,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_271,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_272,Puma,Decent product for the price.,Neutral
+CAMPAIGN_273,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_274,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_275,Puma,Decent product for the price.,Neutral
+CAMPAIGN_276,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_277,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_278,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_279,Puma,Decent product for the price.,Neutral
+CAMPAIGN_280,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_281,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_282,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_283,Adidas,Love the new collection!,Positive
+CAMPAIGN_284,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_285,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_286,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_287,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_288,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_289,Puma,Decent product for the price.,Neutral
+CAMPAIGN_290,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_291,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_292,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_293,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_294,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_295,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_296,Puma,Decent product for the price.,Neutral
+CAMPAIGN_297,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_298,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_299,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_300,Adidas,Love the new collection!,Positive
+CAMPAIGN_301,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_302,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_303,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_304,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_305,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_306,Puma,Decent product for the price.,Neutral
+CAMPAIGN_307,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_308,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_309,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_310,Adidas,Love the new collection!,Positive
+CAMPAIGN_311,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_312,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_313,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_314,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_315,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_316,Puma,Decent product for the price.,Neutral
+CAMPAIGN_317,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_318,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_319,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_320,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_321,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_322,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_323,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_324,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_325,Puma,Decent product for the price.,Neutral
+CAMPAIGN_326,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_327,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_328,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_329,Adidas,Love the new collection!,Positive
+CAMPAIGN_330,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_331,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_332,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_333,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_334,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_335,Puma,Decent product for the price.,Neutral
+CAMPAIGN_336,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_337,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_338,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_339,Adidas,Love the new collection!,Positive
+CAMPAIGN_340,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_341,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_342,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_343,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_344,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_345,Puma,Decent product for the price.,Neutral
+CAMPAIGN_346,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_347,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_348,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_349,Adidas,Love the new collection!,Positive
+CAMPAIGN_350,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_351,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_352,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_353,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_354,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_355,Puma,Decent product for the price.,Neutral
+CAMPAIGN_356,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_357,Adidas,Love the new collection!,Positive
+CAMPAIGN_358,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_359,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_360,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_361,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_362,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_363,Puma,Decent product for the price.,Neutral
+CAMPAIGN_364,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_365,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_366,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_367,Adidas,Love the new collection!,Positive
+CAMPAIGN_368,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_369,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_370,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_371,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_372,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_373,Puma,Decent product for the price.,Neutral
+CAMPAIGN_374,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_375,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_376,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_377,Adidas,Love the new collection!,Positive
+CAMPAIGN_378,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_379,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_380,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_381,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_382,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_383,Puma,Decent product for the price.,Neutral
+CAMPAIGN_384,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_385,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_386,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_387,Adidas,Love the new collection!,Positive
+CAMPAIGN_388,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_389,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_390,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_391,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_392,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_393,Puma,Decent product for the price.,Neutral
+CAMPAIGN_394,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_395,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_396,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_397,Adidas,Love the new collection!,Positive
+CAMPAIGN_398,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_399,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_400,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_401,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_402,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_403,Puma,Decent product for the price.,Neutral
+CAMPAIGN_404,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_405,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_406,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_407,Adidas,Love the new collection!,Positive
+CAMPAIGN_408,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_409,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_410,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_411,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_412,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_413,Puma,Decent product for the price.,Neutral
+CAMPAIGN_414,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_415,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_416,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_417,Adidas,Love the new collection!,Positive
+CAMPAIGN_418,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_419,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_420,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_421,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_422,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_423,Puma,Decent product for the price.,Neutral
+CAMPAIGN_424,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_425,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_426,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_427,Adidas,Love the new collection!,Positive
+CAMPAIGN_428,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_429,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_430,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_431,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_432,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_433,Puma,Decent product for the price.,Neutral
+CAMPAIGN_434,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_435,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_436,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_437,Adidas,Love the new collection!,Positive
+CAMPAIGN_438,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_439,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_440,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_441,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_442,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_443,Puma,Decent product for the price.,Neutral
+CAMPAIGN_444,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_445,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_446,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_447,Adidas,Love the new collection!,Positive
+CAMPAIGN_448,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_449,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_450,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_451,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_452,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_453,Puma,Decent product for the price.,Neutral
+CAMPAIGN_454,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_455,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_456,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_457,Adidas,Love the new collection!,Positive
+CAMPAIGN_458,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_459,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_460,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_461,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_462,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_463,Puma,Decent product for the price.,Neutral
+CAMPAIGN_464,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_465,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_466,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_467,Adidas,Love the new collection!,Positive
+CAMPAIGN_468,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_469,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_470,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_471,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_472,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_473,Puma,Decent product for the price.,Neutral
+CAMPAIGN_474,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_475,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_476,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_477,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_478,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_479,Puma,Decent product for the price.,Neutral
+CAMPAIGN_480,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_481,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_482,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_483,Adidas,Love the new collection!,Positive
+CAMPAIGN_484,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_485,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_486,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_487,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_488,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_489,Puma,Decent product for the price.,Neutral
+CAMPAIGN_490,Nike,The shoes are really comfortable and stylish!,Positive
+CAMPAIGN_491,Apple,Battery life is disappointing.,Negative
+CAMPAIGN_492,Samsung,Display quality is great but camera could be better.,Neutral
+CAMPAIGN_493,Adidas,Love the new collection!,Positive
+CAMPAIGN_494,OnePlus,Fast performance but heats up sometimes.,Neutral
+CAMPAIGN_495,Amazon,Delivery was super quick!,Positive
+CAMPAIGN_496,Sony,The sound quality is not as expected.,Negative
+CAMPAIGN_497,Google,Pixel’s camera is outstanding.,Positive
+CAMPAIGN_498,LG,Interface is clunky and slow.,Negative
+CAMPAIGN_499,Puma,Decent product for the price.,Neutral
+CAMPAIGN_500,Nike,The shoes are really comfortable and stylish!,Positive

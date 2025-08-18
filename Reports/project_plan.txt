@@ -1,0 +1,27 @@
+Title: Marketing Analytics Dashboard
+Objective: Analyze and optimize marketing performance across platforms, channels, and strategies.
+Data Source: Simulated 500-row campaign dataset
+Tools: Power BI
+Scope: Answer 10 marketing questions using visuals and metrics
+
+| Column                 | Description                                  |
+| ---------------------- | -------------------------------------------- |
+| campaign\_id           | Unique ID for each campaign                  |
+| platform               | Source platform (Facebook, Google Ads, etc.) |
+| date                   | Date of campaign activity                    |
+| impressions            | Number of ad views                           |
+| clicks                 | Number of clicks                             |
+| conversions            | Actions taken (e.g., purchases)              |
+| spend                  | Ad spend in USD                              |
+| revenue                | Revenue earned                               |
+| bounce\_rate           | Bounce percentage                            |
+| discount\_applied      | Discount offered in %                        |
+| email\_variant         | Email version A/B                            |
+| keyword                | Search keyword                               |
+| product\_purchased     | Product name                                 |
+| sentiment\_score       | Score from -1 to +1                          |
+| channel                | Marketing channel                            |
+| customer\_id           | Unique customer identifier                   |
+| acquisition\_cost      | Cost to acquire that customer                |
+| funnel\_stage          | Stage in the conversion funnel               |
+| session\_duration\_sec | How long the session lasted                  |
